@@ -43,6 +43,13 @@
               "archiveFileName": "filoprog-win32-2.0.tar.bz2",
               "size": "137729",
               "checksum": "SHA-256:5c8cb1c0a3c9eeebc40f382057aa3f330f9e3c9e456c031c10468a858b497790"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/someone42/arduino-package-test/raw/master/filoprog-x86_64-linux-2.0.tar.bz2",
+              "archiveFileName": "filoprog-x86_64-linux-2.0.tar.bz2",
+              "size": "205775",
+              "checksum": "SHA-256:27734d24e18d1f26bae70c4fa0543c6d6d987ba332dc6e4445bd44a68941addd"
             }
           ]
         }
