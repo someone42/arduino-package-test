@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "name": "wovyn",
+      "maintainer": "Wovyn",
+      "websiteURL": "http://www.wovyn.com/",
+      "email": "example@example.com",
+      "platforms": [
+        {
+          "name": "Filo",
+          "architecture": "filo",
+          "version": "0.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/someone42/arduino-package-test/raw/master/wovyn-filo-0.0.1.tar.bz2",
+          "archiveFileName": "wovyn-filo-0.0.1.tar.bz2",
+          "checksum": "SHA-256:f136116c51c2b57d5c00e5c12f26b2ef2e04b24e879808bd0b8c61cbc9059b9c",
+          "size": "1043093",
+          "boards": [
+            {"name": "Filo M0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
+        },
+      ],
+      "tools": [
+      ]
+    }
+  ]
+}
