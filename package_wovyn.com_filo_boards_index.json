@@ -23,11 +23,29 @@
               "packager": "arduino",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "wovyn",
+              "name": "filoprog",
+              "version": "2.0"
             }
           ]
         }
       ],
       "tools": [
+        {
+          "name": "filoprog",
+          "version": "2.0",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/someone42/arduino-package-test/raw/master/filoprog-win32-2.0.tar.bz2",
+              "archiveFileName": "filoprog-win32-2.0.tar.bz2",
+              "size": "137729",
+              "checksum": "SHA-256:5c8cb1c0a3c9eeebc40f382057aa3f330f9e3c9e456c031c10468a858b497790"
+            }
+          ]
+        }
       ]
     }
   ]
