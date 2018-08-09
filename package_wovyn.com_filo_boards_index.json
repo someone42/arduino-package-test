@@ -9,12 +9,12 @@
         {
           "name": "Filo",
           "architecture": "filo",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "category": "Contributed",
-          "url": "https://github.com/someone42/arduino-package-test/raw/master/wovyn-filo-0.0.1.tar.bz2",
-          "archiveFileName": "wovyn-filo-0.0.1.tar.bz2",
-          "checksum": "SHA-256:f136116c51c2b57d5c00e5c12f26b2ef2e04b24e879808bd0b8c61cbc9059b9c",
-          "size": "1043093",
+          "url": "https://github.com/someone42/arduino-package-test/raw/master/wovyn-filo-0.0.2.tar.bz2",
+          "archiveFileName": "wovyn-filo-0.0.2.tar.bz2",
+          "checksum": "SHA-256:c87effef0f348f93b2750a9b3c1076134a36de77ace69e7d760f1c413983e2f7",
+          "size": "1042772",
           "boards": [
             {"name": "Filo M0"}
           ],
