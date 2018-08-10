@@ -35,35 +35,42 @@
       "tools": [
         {
           "name": "filoprog",
-          "version": "2.0",
+          "version": "2.0.132",
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/someone42/arduino-package-test/raw/master/filoprog-win32-2.0.tar.bz2",
-              "archiveFileName": "filoprog-win32-2.0.tar.bz2",
-              "size": "137729",
-              "checksum": "SHA-256:5c8cb1c0a3c9eeebc40f382057aa3f330f9e3c9e456c031c10468a858b497790"
+              "url": "https://github.com/someone42/arduino-package-test/raw/master/filoprog-win32-2.0.132.tar.bz2",
+              "archiveFileName": "filoprog-win32-2.0.132.tar.bz2",
+              "size": "58428",
+              "checksum": "SHA-256:f11ef82110ea0bd3fdc3caf70011e24532d1d167082f2e27582519714e53d984"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://github.com/someone42/arduino-package-test/raw/master/filoprog-x86_64-linux-2.0.tar.bz2",
-              "archiveFileName": "filoprog-x86_64-linux-2.0.tar.bz2",
-              "size": "205742",
-              "checksum": "SHA-256:2d1ddf40ee70bad42095bf315650637bee7afcf44ffab3af4ac8a0c401fdea23"
+              "url": "https://github.com/someone42/arduino-package-test/raw/master/filoprog-x86_64-linux-2.0.132.tar.bz2",
+              "archiveFileName": "filoprog-x86_64-linux-2.0.132.tar.bz2",
+              "size": "188931",
+              "checksum": "SHA-256:b05e17fbfa17243fdbfb7a646a3a76b6acda0cf60193f9bef451163313001399"
             },
             {
               "host": "i686-pc-linux-gnu",
-              "url": "https://github.com/someone42/arduino-package-test/raw/master/filoprog-i686-linux-2.0.tar.bz2",
-              "archiveFileName": "filoprog-i686-linux-2.0.tar.bz2",
-              "size": "200313",
-              "checksum": "SHA-256:0612befc5fc84d0bdc39953c18b33a4035b82805ad2d71b3e9a807614137c162"
+              "url": "https://github.com/someone42/arduino-package-test/raw/master/filoprog-i686-linux-2.0.132.tar.bz2",
+              "archiveFileName": "filoprog-i686-linux-2.0.132.tar.bz2",
+              "size": "184190",
+              "checksum": "SHA-256:dd41c805a355e51636e85d5c0f7cb29256bbcf0e51cb5a182be87b9fab615693"
             },
             {
               "host": "arm-linux-gnueabihf",
-              "url": "https://github.com/someone42/arduino-package-test/raw/master/filoprog-linuxarmhf-2.0.tar.bz2",
-              "archiveFileName": "filoprog-linuxarmhf-2.0.tar.bz2",
-              "size": "180844",
-              "checksum": "SHA-256:cc508d70cc5b0e6a9bc459d5952af76e1d37ba78c4298aa02b6c760277ed226c"
+              "url": "https://github.com/someone42/arduino-package-test/raw/master/filoprog-linuxarmhf-2.0.132.tar.bz2",
+              "archiveFileName": "filoprog-linuxarmhf-2.0.132.tar.bz2",
+              "size": "165315",
+              "checksum": "SHA-256:b04997c53290b496935194bc816364e6a6e62756c419ba016c9e6bb50249c55a"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/someone42/arduino-package-test/raw/master/filoprog-macosx-2.0.132.tar.bz2",
+              "archiveFileName": "filoprog-macosx-2.0.132.tar.bz2",
+              "size": "67603",
+              "checksum": "SHA-256:bea6ded12be324b69e432f96c4ac9c5d4d9f2ceaf8914001be2c1c123a4ce051"
             }
           ]
         }
