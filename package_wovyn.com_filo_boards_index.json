@@ -7,16 +7,16 @@
       "email": "example@example.com",
       "platforms": [
         {
-          "name": "Filo",
-          "architecture": "filo",
-          "version": "0.0.4",
+          "name": "Wovyn Filo M0 Boards",
+          "architecture": "kw41z",
+          "version": "0.0.5",
           "category": "Contributed",
-          "url": "https://github.com/someone42/arduino-package-test/raw/master/wovyn-filo-0.0.4.tar.bz2",
-          "archiveFileName": "wovyn-filo-0.0.4.tar.bz2",
-          "checksum": "SHA-256:c94efb865b70d7bc947557cbf30576d78f1d10821719e6f0649a871242d1b95a",
-          "size": "1042027",
+          "url": "https://github.com/someone42/arduino-package-test/raw/master/wovyn-kw41z-0.0.5.tar.bz2",
+          "archiveFileName": "wovyn-kw41z-0.0.5.tar.bz2",
+          "checksum": "SHA-256:cbe1ca26b8ae68ab8561d49aaf8fc076eec5faf8f5add4ac623f4ccd3f5bad5a",
+          "size": "1042866",
           "boards": [
-            {"name": "Filo M0"}
+            {"name": "R41Z Evaluation Board"}
           ],
           "toolsDependencies": [
             {
