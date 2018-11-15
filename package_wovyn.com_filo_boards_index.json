@@ -3,8 +3,8 @@
     {
       "name": "wovyn",
       "maintainer": "Wovyn",
-      "websiteURL": "http://www.wovyn.com/",
-      "email": "example@example.com",
+      "websiteURL": "https://github.com/Wovyn/Arduino",
+      "email": "arduinocore@wovyn.com",
       "platforms": [
         {
           "name": "Wovyn Filo M0 Boards",
