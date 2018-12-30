@@ -9,12 +9,12 @@
         {
           "name": "Wovyn Filo M0 Boards",
           "architecture": "kw41z",
-          "version": "0.0.5",
+          "version": "0.0.6",
           "category": "Contributed",
-          "url": "https://github.com/someone42/arduino-package-test/raw/master/wovyn-kw41z-0.0.5.tar.bz2",
-          "archiveFileName": "wovyn-kw41z-0.0.5.tar.bz2",
-          "checksum": "SHA-256:cbe1ca26b8ae68ab8561d49aaf8fc076eec5faf8f5add4ac623f4ccd3f5bad5a",
-          "size": "1042866",
+          "url": "https://github.com/someone42/arduino-package-test/raw/master/wovyn-kw41z-0.0.6.tar.bz2",
+          "archiveFileName": "wovyn-kw41z-0.0.6.tar.bz2",
+          "checksum": "SHA-256:b4a73312515e037f983605ff82be10e7f7b2ab5af3c43fbe159e119beed05026",
+          "size": "1963247",
           "boards": [
             {"name": "R41Z Evaluation Board"}
           ],
